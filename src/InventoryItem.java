@@ -1,3 +1,4 @@
+package src;
 public class InventoryItem {
     // Attributes of the item
     private String itemId;
