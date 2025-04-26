@@ -1,5 +1,9 @@
 package src;
-public class InventoryItem {
+
+import java.io.Serializable;
+
+public class InventoryItem implements Serializable {
+    private static final long serialVersionUID = 1L;
     // Attributes of the item
     private String itemId;
     private String name;
