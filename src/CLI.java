@@ -68,6 +68,7 @@ public class CLI {
         System.out.println("5. View All Items");
         System.out.println("6. Save to File");
         System.out.println("7. Load from File");
+        System.out.println("8. Show low stock items");
         System.out.println("0. Exit");
     }
 
